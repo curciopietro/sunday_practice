@@ -1,0 +1,15 @@
+.Pagination .active {
+  font-weight: 900;
+  color: black;
+  border: 1px solid black;
+}
+
+.Pagination button {
+  margin: 3px 2px;
+  min-width: 35px;
+  max-width: 35px;
+  min-height: 25px;
+  color: gray;
+  border: none;
+  border-radius: 5px;
+}
